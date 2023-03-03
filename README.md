@@ -1,0 +1,2 @@
+# perjantai
+Perjantain koodaukset
